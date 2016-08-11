@@ -1,0 +1,19 @@
+body {
+	font-family: 'Teko', sans-serif;
+	color: #704747;
+	font-weight: 600;
+}
+.text-muted {
+	color: #BCBBBB;
+}
+.text-thin {
+	font-weight: 400;
+}
+
+.title-super {
+	font-size: 80px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
